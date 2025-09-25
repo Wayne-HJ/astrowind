@@ -139,7 +139,7 @@ export const footerData = {
 // //         { text: 'Partners', href: '#' },
 // //         { text: 'Atom', href: '#' },
 // //         { text: 'Electron', href: '#' },
-// //         { text: 'ICHINGWALKER Desktop', href: '#' },
+// //         { text: 'ICHINGWALKERS Desktop', href: '#' },
 //       ],
 //     },
 //     {
@@ -177,6 +177,6 @@ export const footerData = {
 //     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/arthelokyo/astrowind' },
   ],
   footNote: `
-    Made by ICHING WALKER · All rights reserved.
+    Made by ICHING WALKERS · All rights reserved.
   `,
 };
